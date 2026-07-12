@@ -1,0 +1,15 @@
+1. Purpose: Complaint handling.
+2. Scope: All customer complaints.
+3. Intake: Log within 24 hours.
+4. Classification: Categorize severity.
+5. Escalation: Patient harm immediately to Quality.
+6. Investigation: Complete within 10 business days.
+7. CAPA: Raise corrective action if needed.
+8. Reporting: Notify authority where applicable.
+9. Communication: Inform customer.
+10. Closure: Obtain approval.
+11. Records: Preserve evidence.
+12. Audit: Quarterly review.
+13. Metrics: Track complaint trends.
+14. Training: Annual refreshers.
+15. References: Internal SOP.

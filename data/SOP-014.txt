@@ -1,0 +1,15 @@
+1. Purpose: Sterilization process.
+2. Scope: Reusable components.
+3. Responsibilities: Operators perform cleaning.
+4. Cleaning: Use enzymatic detergent.
+5. Rinsing: Use deionized water.
+6. Sterilization: Autoclave at 134°C for 18 minutes.
+7. Verification: Record batch ID and operator.
+8. Failed Cycles: Repeat sterilization.
+9. Storage: Store in sealed pouches.
+10. Shelf Life: Use within 30 days.
+11. Disposal: Discard damaged pouches.
+12. Records: Maintain sterilization logs.
+13. Audit: Review logs monthly.
+14. Deviations: Escalate to Quality.
+15. References: ISO procedures.

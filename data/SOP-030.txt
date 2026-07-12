@@ -1,0 +1,15 @@
+1. Purpose: Software deployment.
+2. Scope: OTA updates.
+3. Regression: Complete before release.
+4. Stage 1: Rollout to 5%.
+5. Monitor: Observe for 48 hours.
+6. Stage 2: Rollout to 25%.
+7. Monitor: Observe for 48 hours.
+8. Stage 3: Rollout to 100%.
+9. Rollback: Trigger if error rate exceeds 2%.
+10. Recovery: Complete rollback within 4 hours.
+11. Validation: Verify successful recovery.
+12. Documentation: Maintain release notes.
+13. Approval: Quality and Regulatory sign-off.
+14. Audit: Record deployment history.
+15. References: Release management policy.

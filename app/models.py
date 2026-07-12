@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String, Text, ForeignKey
-from database import Base, engine
+from .database import Base, engine
 
 class Document(Base):
     __tablename__ = "documents"
