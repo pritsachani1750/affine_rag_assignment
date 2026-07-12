@@ -19,7 +19,6 @@ class Selection(Base):
     __tablename__ = "selections"
 
     id = Column(Integer, primary_key=True, index=True)
-    chunk_ids = Column(String)  # Stored as a comma-separated string (e.g., "1,2,5")
+    chunk_ids = Column(String)  
 
-# Create the database tables automatically
 Base.metadata.create_all(bind=engine)
